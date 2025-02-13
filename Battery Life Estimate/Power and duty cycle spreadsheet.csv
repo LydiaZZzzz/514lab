@@ -1,0 +1,11 @@
+,Component ,Power Consumption (mA),Duty Cycle (%),Active Time (h/day),Energy Use (mAh/day)
+1,Xiao Esp32 S3 (Display),240,100,10,2400
+2,I2C Screen,70,100,10,700
+3,Step Motor,300,30,10,900
+4,LED,20,50,10,100
+                       Total,,,,,4100
+,,,,,
+1,Xiao Esp32 S3 (Sensor),240,100,10,2400
+2,Camera,125,50,10,625
+3,Esp-NOW Transmission,20,50,10,100
+                       Total,,,,,3125
